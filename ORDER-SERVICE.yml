@@ -10,5 +10,5 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-  application:
-    name: ORDER-SERVICE
+#   application:
+#     name: ORDER-SERVICE
